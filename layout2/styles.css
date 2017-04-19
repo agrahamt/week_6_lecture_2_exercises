@@ -1,0 +1,10 @@
+div{
+  border: 1px solid red;
+  width:80%;
+  PADDING:15PX;
+  font-size: 25px
+}
+img {
+  display:flex;
+  justify-content: flex-start;
+}
